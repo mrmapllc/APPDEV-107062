@@ -1,5 +1,7 @@
 # Python
 
+Lorem ipsum dolor sit amet. 
+
 Python is a powerful, high-level programming language that is widely used in many different fields,
 including web development, data science, artificial intelligence, and more. It is known for its simple,
 easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article,
